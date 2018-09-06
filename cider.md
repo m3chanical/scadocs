@@ -4,7 +4,10 @@
 
 ---
     nocite: |
-        @*
+        @MEAD:2
+        @MEAD:3
+        @MEAD:4
+        @MEAD:5
 ---
 
 # Overview
