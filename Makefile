@@ -1,4 +1,4 @@
-default: cider.pdf enamel_notes.pdf enamel_procedure.pdf enamel_references.pdf
+default: cider.pdf enamel_notes.pdf enamel_procedure.pdf enamel_references.pdf enamel_clashwbacchus.pdf
 
 %.pdf: %.md Makefile
 	pandoc --toc --template=sca_doc.latex --bibliography=references.bib -o $@ $<

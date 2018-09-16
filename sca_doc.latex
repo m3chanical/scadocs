@@ -14,8 +14,8 @@
 \let\Oldincludegraphics\includegraphics
 \renewcommand{\includegraphics}[1]{\Oldincludegraphics[max width=\linewidth]{#1}}
 \titleformat{\section}
-{\color{OliveGreen}\normalfont\Large\bf}
-{\color{OliveGreen}\thesection}{1em}{}
+{\color{Green}\normalfont\Large\bf}
+{\color{Green}\thesection}{1em}{}
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhead{}
@@ -147,14 +147,12 @@ $endif$
 $if(author)$
 \author{$for(author)$$author$$sep$ \and $endfor$}
 $endif$
-$if(date)$
-\date{$date$}
-$endif$
 
 \begin{document}
 %\garamond
 $if(title)$
 \maketitle
+\date{$date$}
 $endif$
 
 $for(include-before)$
