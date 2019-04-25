@@ -12,7 +12,15 @@
 \usepackage[export]{adjustbox}
 \usepackage{graphicx}
 \let\Oldincludegraphics\includegraphics
-\renewcommand{\includegraphics}[1]{\Oldincludegraphics[max width=\linewidth]{#1}}
+\renewcommand{\includegraphics}[1]{\Oldincludegraphics[max width=\linewidth, scale=0.9]{#1}}
+\usepackage{float} % provides the H option for float placement
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
 \titleformat{\section}
 {\color{Green}\normalfont\Large\bf}
 {\color{Green}\thesection}{1em}{}
@@ -21,7 +29,7 @@
 \fancyhead{}
 \fancyfoot{}
 \fancyhead[R]{$title$\\$date$}
-\fancyfoot[C]{\raisebox{-0.5\height}{\Oldincludegraphics[width=1in]{heraldry.png}}}
+\fancyfoot[C]{\raisebox{-0.5\height}{\Oldincludegraphics[width=0.5in]{heraldry.png}}}
 \fancyfoot[R]{Page \thepage}
 % use microtype if available
 \textwidth = 6.5in
@@ -94,6 +102,13 @@ $endif$
 $if(tables)$
 \usepackage{ctable}
 \usepackage{float} % provides the H option for float placement
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][2] {
+    \expandafter\origfigure\expandafter[H]
+} {
+    \endorigfigure
+}
 $endif$
 \ifxetex
   \usepackage[setpagesize=false, % page size defined by xetex

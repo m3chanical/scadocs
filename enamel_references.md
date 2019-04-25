@@ -1,7 +1,6 @@
 % Champleve Enamel Period Documentation
-% The period method vs my method
-% Edgar Refskegg
+% Medieval Reproduction Using Modern Methods - Edgar Refskegg
 
 # Overview
 
-Pizza.
+to be added...

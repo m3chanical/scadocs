@@ -1,6 +1,5 @@
 % Champleve Enamel Procedure
-% Step by step
-% Edgar Refskegg
+% Step by step - Edgar Refskegg
 
 ---
     nocite: |

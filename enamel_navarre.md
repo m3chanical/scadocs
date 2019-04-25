@@ -1,14 +1,10 @@
-% Champleve Enamel for Clash with Bacchus
-% Edgar Refskegg & Rajan 
+% Champleve Enamel for Night in Navarre 
+% Edgar Refskegg  
 
 ---
     nocite: |
         @ENAMEL:1,
         @ENAMEL:2,
-        @THYRSUS:1,
-        @THYRSUS:2,
-        @THYRSUS:3,
-        @THYRSUS:4,
 
 ---
 
@@ -16,7 +12,11 @@
 
 # Acknowledgement
 
-Special attention must be paid to both Marta De Lyon and Cailin
+Lord Rajan designs the art for these enameling endeavors and does an
+incredible job. Without her this enameling wouldn't look nearly half as
+good. Her skill is amazing and an integral part of these pieces.
+
+Additionaly special attention must be paid to both Marta De Lyon and Cailin
 Blackwood. Their assistance was instrumental in bringing the enamel
 medallions to life.
 
@@ -26,14 +26,11 @@ possible.
 
 \newpage
 
-# Abstract
+# Overview 
 
-Presented here are several pieces of enamel done in Champlevè style.
-There are several different enamels done with the theme of alcohol, each
-representing a different type of drink. There are also a few Thyrsus
-medallions, representing the followers of Bacchus and the aspects of
-life they support: hedonism, partying, and good fun. See section
-entitled "Relevance..." to learn more! 
+Presented here are several pieces of vitreous enamel done in Champlevè style fired at 1450 degrees Fahrenheit.
+There is additional documentation that discusses how this design is
+inspired by Navarre. Please read it!
 
 The following is an overview of the process to create the enamel: 
 
@@ -45,8 +42,7 @@ The following is an overview of the process to create the enamel:
 6. Polishing. 
 
 What follows is some discussion on how Champlevè enamel was
-created in period, and some notes on how the designs relate
-to Bacchus. 
+created in period.
 
 See associated docs for technical information on the drawing, etching, and enameling process.
 
@@ -87,27 +83,12 @@ major differences are as follows:
     to the metal. We use a heat transfer press and circuit board
     transfer paper. 
 *   Unlike period enamel, modern enamel comes prepared and pre-sifted in
-    a consistent grain size. 
+    a consistent grain size. Period enamel was done as what's called
+    "lump enamel." The large glass chunks were broken up with a pestel
+    and mortar, then sifted.
 
 As mentioned previously, a lot of the process for enameling is very
 similar to period Champlevé enamel styles. 
-
-# Relevance - The Maenads and the Thyrsus
-
-A Thyrsus was a staff made of a giant fennel (for the handle) and topped
-with a pine cone. It was sometimes wrapped with a ribbon or vines.
-
-The Thyrsus is a symbol of Bacchus' followers: the Maenads and the
-Satyrs which indicates fertility, hedonism, and general pleasure for
-life.
-
-The Thyrsus has appeared in the Iliad, writings of Plato, and in an
-ancient Greek tragedy called The Bacchae.
-
-The Maenads were female followers of Bacchus (called the Bacchae in Roman
-mythology). Essentially, they get drunk and party. Art depicting Maenads
-and Thyrsi, along with their respective equipment, have been found all
-over and are now displayed in many museums. 
 
 \newpage
 

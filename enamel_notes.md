@@ -1,10 +1,10 @@
 % Champleve Enameling Notes
 % Things learned along the way.
-% Edgar Refskegg
 
 ---
     nocite: |
-        @*
+        @ENAMEL:1
+        @ENAMEL:2
 
 ---
 
@@ -34,6 +34,8 @@ sometimes deviate to be more in a paragraph format.
 
     -   Resist is applied mostly using Press n Peel transfer paper from
         techniks.com, following the directions on the website. 
+    -   don't heat too hot, or for too long, otherwise the transfer ink
+        will bleed and create a lower resolution image. 
     -   Occasionally the transfer paper doesn't fully transfer the
         design, and must be supplemented.
             -   Testor's paint is good for this. There might be others. 
@@ -49,14 +51,27 @@ sometimes deviate to be more in a paragraph format.
 # Enameling
 
     -   Red enamel shouldn't be fired too many times. It starts to
-        discolor. 
+        discolor.
+    -   vibrating the wet enamel pieces against a firing rack is really
+        useful for settling out the enamel. Otherwise it might be lumpy.
+    -   it's generally always useful to slightly overpack the enamel and
+        then grind it off with stones and sand paper.
+    -   keep wet enamel away from pieces just out of the kiln. fire
+        scale will pop off onto the wet enamel. no good. 
 
 # Polishing
     
     -   when using spray lacquer, don't sand or use steel wool on it. 
+    -   actually sanding is fine. I had some good success using wet 1000
+        grit. but just be careful.
 
 # Materials to Have on Hand
 
+    -   chemicals: sodium bisulfate, sodium carbonate (to neutralize
+        ferric chloride), ferric chloride
+    -   sand paper (up to 1000+ grit)
+    -   alundum stones, used to grind off excess enamel and smooth
+        copper.
 
 # Purchasing 
 
@@ -90,3 +105,5 @@ place is helpful for parsing through.
 
 
 \newpage
+
+# References

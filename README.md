@@ -5,6 +5,7 @@ technical know-how, but with a little bit of effort, very good looking documents
 
 ## Requirements
 
+Make.
 Pandoc installed. (e.g. sudo apt install -y pandoc)
 All Latex modules installed. (e.g. sudo apt install -y ...)
 
