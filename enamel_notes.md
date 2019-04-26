@@ -5,6 +5,7 @@
     nocite: |
         @ENAMEL:1
         @ENAMEL:2
+        @ENAMEL:3
 
 ---
 
@@ -35,7 +36,8 @@ sometimes deviate to be more in a paragraph format.
     -   Resist is applied mostly using Press n Peel transfer paper from
         techniks.com, following the directions on the website. 
     -   don't heat too hot, or for too long, otherwise the transfer ink
-        will bleed and create a lower resolution image. 
+        will bleed and create a lower resolution image that will have to
+        be cleaned up. 
     -   Occasionally the transfer paper doesn't fully transfer the
         design, and must be supplemented.
             -   Testor's paint is good for this. There might be others. 
@@ -46,11 +48,14 @@ sometimes deviate to be more in a paragraph format.
 
     -   Packing tape should be applied to the back side of the copper
         pieces before they are etched, otherwise etchant will get behind
-        it and ruin the back. 
+        it and ruin the back. Paint the seams as well to seal.
+    -   Metal should be soaked in a sodium {bi}carbonate solution. This
+        does two things: neutralize residual acids, starts to dissolve
+        resist for easier removal
 
 # Enameling
 
-    -   Red enamel shouldn't be fired too many times. It starts to
+    -   Red enamel shouldn't be fired too many times or too hot. It starts to
         discolor.
     -   vibrating the wet enamel pieces against a firing rack is really
         useful for settling out the enamel. Otherwise it might be lumpy.
@@ -102,7 +107,6 @@ place is helpful for parsing through.
     -   https://www.fusionbeads.com/round-artistic-wire?gauge=7
         -   wire to create pins
         -   10 or 12 gauge
-
 
 \newpage
 
