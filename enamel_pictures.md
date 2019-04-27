@@ -27,15 +27,17 @@ enameling process goes.
 
 ![Example of drawing printed onto PnP (Art by Brose - this is her sheet). This must be printed with a laser printer. Inkjet will not work.](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel37.jpg)
 
-![Resist Applied to copper with PnP Blue. Copper will need to be further painted to fix flaws in transfer and seal back](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel1.JPEG)
+![Resist Applied to copper with PnP Blue. Testor's paint was used to fill in the gaps and seal the metal to the foam block](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel39.JPEG)
 
 ![Yew Bow medallion in the etchant bath. Notice how the resist is preventing the rest of the metal from dissolving](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel2.JPEG)
 
 ![Etched copper cleaned and awaiting wet enamel packing](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel23.JPEG)
 
-![Yew Bow and MoD medallions after stoning and light sanding. Stoning grinds excess glass to reveal detail and level](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel6.JPEG)
+![White Scarf medallions in the process of packing. Notice the enamel is wet, which aids in the process](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel42.JPEG)
 
-![Pearl medallion in the process of packing. Notice the vitreous enamel is damp, which assists in its application to the design](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel11.JPEG)
+![Two grape medallions on the right are dry and ready to be fired. If the enamel is too wet when it goes into the kiln the water vaporizes and interferes with enamel quality](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel43.JPEG)
+
+![Yew Bow and MoD medallions after stoning and light sanding. Stoning grinds excess glass to reveal detail and level](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel6.JPEG)
 
 ![On the left, stoned and cleaned medallions ready for flash firing. On the right, medallions just out of the kiln. The fire scale is present and the enamel is slightly dark](/home/statemachine/Documents/website/refskeggbrewing.github.io/assets/images/enamel4.JPEG)
 
@@ -49,10 +51,6 @@ enameling process goes.
 
 # Future
 
-Pictures to add:
-
-* dried enamel to be put in kiln
-* kiln progress steps
 * tools used
 * extant pictures for reproductions
 
