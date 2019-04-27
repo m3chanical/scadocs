@@ -1,7 +1,7 @@
 ---
     title: Enameling Supplies 
     author:
-        - Carl J. Anderson 
+        - Edgar Refskegg
     geometry: margin=1in
 
     nocite: |

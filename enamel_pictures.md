@@ -1,7 +1,7 @@
 ---
     title: Enameling Pictures
     author:
-        - Carl J. Anderson 
+        - Edgar Refskegg
     geometry: margin=1in
 
     nocite: |
