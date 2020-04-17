@@ -5,21 +5,16 @@ technical know-how, but with a little bit of effort, very good looking documents
 
 ## Requirements
 
-Make.
-Pandoc installed. (e.g. sudo apt install -y pandoc)
-All Latex modules installed. (e.g. sudo apt install -y ...)
+You'll need to have pandoc, pandoc-citeproc, and make installed.
+Additionally, you'll need to have LaTeX installed as well. 
 
-    * texlive-binaries
-    * texlive-fonts-recommended   
-    * texlive-generic-recommended
-    * texlive-latex-base
-    * texlive-latex-extra
-    * texlive-latex-recommended   
-    * texlive-pictures
-
-Maybe more Texlive packages. I am never certain... 
+Use the `setup_docs.sh` script to download and install the latest
+release of Pandoc (from github) and texlive-full (from the Ubuntu
+repos). The script will only work with Ubuntu right now, but it can be
+easily adapted otherwise.
 
 ## Create Docs
 
 Update the makefile with the new documents (should be pretty straightforward to follow)
-Type make, which will run pandoc with the latex template. 
+Type make, which will run pandoc with the latex template and the Chicago
+style bibliography file. 
