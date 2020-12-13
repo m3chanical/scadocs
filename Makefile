@@ -1,6 +1,19 @@
-default: paj_procedure.pdf paj_pictures.pdf cider.pdf enamel_etching.pdf enamel_notes.pdf enamel_procedure.pdf enamel_references.pdf enamel_navarre.pdf enamel_clashwbacchus.pdf enamel_pictures.pdf class_notes.pdf navarre_grape.pdf enamel_procedure_general.pdf enamel_supplies.pdf
+# source (markdown) files
+source := src
 
-%.pdf: %.md Makefile
-	pandoc --toc --template=sca_doc.latex --bibliography=references.bib --csl=chicago-fullnote-bibliography.csl -o $@ $<
+# output (pdf) files
+output := out
+
+# all *.md files in src/
+input := $(wildcard $(source)/*.md)
+objects := $(patsubst %.md,%.pdf,$(subst $(source),$(output),$(input)))
+
+all: $(objects)
+
+$(output)/%.pdf: $(source)/%.md
+	pandoc --toc --template=sca_doc.latex --citeproc --bibliography references.bib --csl chicago-fullnote-bibliography.csl -o $@ $<
+
+.PHONY : clean
+
 clean: 
-	rm paj_procedure.pdf paj_pictures.pdf cider.pdf enamel_notes.pdf enamel_procedure.pdf enamel_references.pdf enamel_clashwbacchus.pdf enamel_navarre.pdf navarre_grape.pdf enamel_procedure_general.pdf enamel_pictures.pdf enamel_etching.pdf enamel_supplies.pdf
+	rm -f $(output)/*.pdf

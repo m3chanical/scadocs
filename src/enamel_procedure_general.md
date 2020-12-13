@@ -76,7 +76,7 @@ hazardous.
 7. After cooling, re-pack and re-fire enamel as necessary to completely
    fill the metal
 8. Polish metal
-9.  Finished!
+9. Finished!
 
 # Modern (My) Method
 
